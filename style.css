@@ -89,18 +89,17 @@ main {
 
 img {
     width: 200px;
-    height: 291.25px;
-    margin: 10px 25px 35px 10px;
+    height: 325px;
+    margin: 10px 25px 30px 10px;
 }
 
 .resumo {
     padding-top: 8px;
-    font-size: 13.9px;
+    font-size: 13.8px;
 }
 
 .content {
     padding: 0px 45px;
-    margin-top: 30px;
 }
 
 #paragraph {
