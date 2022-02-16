@@ -46,7 +46,6 @@ main {
 
 h1{
     text-align: center;
-    font-size: 73px;
     color: var(--cor2);
     padding-top: 50px;
     font-variant: small-caps;
@@ -55,7 +54,7 @@ h1{
 }
 
 h2{
-    font-size: 33px;
+    font-size: 3vw;
     font-family: var(--fonte1);
     color: #657463;
     text-align: center;   
